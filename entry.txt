@@ -1,0 +1,1 @@
+v2.9.0: fixed a bug where the user snored loud enough to wake themself up, then denied it in the morning.
